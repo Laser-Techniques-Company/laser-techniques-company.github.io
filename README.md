@@ -1,2 +1,3 @@
-# laser-techniques-company.github.io
-Support docs for LTC systems
+## LTC Docs
+
+Support documentation and troubleshooting steps for LTC systems.
