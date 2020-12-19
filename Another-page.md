@@ -4,9 +4,6 @@ has_children: true
 nav_order: 2
 ---
 
-# Another page
+# LP-500
 
-Test this
-
-
-blah
+LP5K Documentation
