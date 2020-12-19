@@ -1,5 +1,5 @@
 ---
-title: Test
+title: LP-5000
 has_children: true
 nav_order: 2
 ---
