@@ -23,8 +23,8 @@ source: site
 readme_index:
   enabled: false
 
-# remote_theme: pmarsceill/just-the-docs
-theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+# theme: "just-the-docs"
 
 
 # Aux links for the upper right navigation
