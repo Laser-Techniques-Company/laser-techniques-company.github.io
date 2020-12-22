@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting
 parent: Setup
-grand_parent: LP5K
+grand_parent: LP-5000
 nav_order: 1
 ---
 
