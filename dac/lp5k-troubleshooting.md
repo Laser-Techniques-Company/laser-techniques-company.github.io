@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting
-parent: Setup
-grand_parent: LP-5000
+parent: LP-5000
+grand_parent: DAC Instruments
 nav_order: 1
 ---
 
