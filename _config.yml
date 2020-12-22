@@ -1,7 +1,6 @@
 title: "LTC Documentation"
 remote_theme: Laser-Techniques-Company/just-the-docs
 color_scheme: "light"
-search_enabled: false
 logo: "/assets/images/ltc_logo.png"
 url: "https://docs.laser-ndt.org"
 permalink: pretty
