@@ -15,3 +15,16 @@ A powerful aspect of the LaserViewer&trade; software package is its ability to b
 ## Motion Control
 
 LaserViewer&trade; provides a user-friendly and flexible motion control interface that allows a variety of operator-configurable motion control options including continuous helical and step/increment operation.
+
+## Display, Analysis and Reporting
+
+Our proprietary LaserViewer™ software allows operators to quickly and accurately access the condition of test articles.
+
+Features include:
+- Color Plot (C-scan) image of  calibrated profile and LVI data
+- Cross-sectional and axial display of surface profile data
+- LaserVideo image of data displaying fine scratches, heatchecking and discoloration
+- Surface contour display with 256 color, Grey-scale, Thermal and Solid Color options for dynamic color pallet
+- Several data post processing functions
+- File and bitmap image editing, export and printing functions
+- Optional custom report generators for special applications
