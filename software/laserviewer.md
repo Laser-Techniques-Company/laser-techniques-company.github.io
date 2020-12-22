@@ -6,7 +6,7 @@ nav_order: 3
 
 # LaserViewer&trade; Inspection Software
 
-The LP-5000&trade; is provided with our proprietary LaserViewer&trade; data acquisition and reporting software, which is a commercially produced, standard product employing a Windows-based platform. It is capable of acquiring and mapping multichannel laser profilometry data, as well as LaserVideo&trade; imaging (LVI), laser-scanned FPI and straightness data. The LVI provides an image of the component surface similar to that of a borescope. The LVI, however, is unaffected by the optical distortion that is typical for borescopes. It is a quantitative map of the surface reflectance that allows operators to locate and measure features such as chips, scratches and discoloration.
+The LP-5000&trade; is provided with our proprietary LaserViewer&trade; data acquisition and reporting software, which is a commercially produced, standard product employing a Windows&trade;-based platform. It is capable of acquiring and mapping multichannel laser profilometry data, as well as LaserVideo&trade; imaging (LVI), laser-scanned FPI and straightness data. The LVI provides an image of the component surface similar to that of a borescope. The LVI, however, is unaffected by the optical distortion that is typical for borescopes. It is a quantitative map of the surface reflectance that allows operators to locate and measure features such as chips, scratches and discoloration.
 
 ## Customizable Operator Interface
 
@@ -23,7 +23,7 @@ Our proprietary LaserViewer™ software allows operators to quickly and accurate
 Features include:
 - Color Plot (C-scan) image of  calibrated profile and LVI data
 - Cross-sectional and axial display of surface profile data
-- LaserVideo image of data displaying fine scratches, heatchecking and discoloration
+- LaserVideo&trade; image of data displaying fine scratches, heatchecking and discoloration
 - Surface contour display with 256 color, Grey-scale, Thermal and Solid Color options for dynamic color pallet
 - Several data post processing functions
 - File and bitmap image editing, export and printing functions
