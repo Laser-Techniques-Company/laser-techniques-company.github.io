@@ -2,7 +2,7 @@ title: "LTC Documentation"
 remote_theme: Laser-Techniques-Company/just-the-docs
 color_scheme: "light"
 logo: "/assets/images/ltc_logo.png"
-url: "https://laser-ndt.org"
+url: "https://docs.laser-ndt.org"
 permalink: pretty
 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
