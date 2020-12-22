@@ -1,6 +1,6 @@
 ---
 title: Setup
-parent: LP5K
+parent: LP-5000
 has_children: true
 nav_order: 1
 ---
